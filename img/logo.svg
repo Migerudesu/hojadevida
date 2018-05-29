@@ -1,0 +1,21 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter id="svg_1_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_3" d="m289.986548,136.468095c7.948353,0.008381 15.541563,1.156131 22.732686,3.073572l-5.691256,8.209056l40.398683,0l-10.102254,-14.591046l-10.094543,-14.586683l-5.313848,7.686247c-9.958995,-3.03656 -20.69517,-4.735987 -31.922229,-4.735987c-51.677326,0 -93.563421,34.934453 -93.563421,78.032262c0,17.887007 7.294671,34.32125 19.434607,47.488426l14.226802,-9.109848c-9.818441,-10.640887 -15.721828,-23.919232 -15.753859,-38.374271c0.07151,-34.844009 33.873517,-63.038301 75.648624,-63.091727l0.000007,0zm74.138677,15.615451l-14.226772,9.114211c9.815968,10.636837 15.719385,23.906814 15.746394,38.366146c-0.071517,34.843721 -33.873517,63.033983 -75.651052,63.091402c-7.403224,-0.007981 -14.485832,-1.011912 -21.237825,-2.690852l5.355658,-7.723497l-40.398504,0l10.094783,14.582971l10.102067,14.603083l5.632052,-8.151212c9.551918,2.773202 19.774836,4.32036 30.451769,4.324385c51.684782,-0.008031 93.563691,-34.942516 93.575832,-78.040356c-0.012141,-17.886969 -7.311997,-34.3172 -19.444402,-47.476276l0,-0.000006z" stroke-opacity="null" stroke-width="2" stroke="#000" fill="#8391AE"/>
+  <ellipse filter="url(#svg_1_blur)" stroke-dasharray="2,2" ry="51" rx="162" id="svg_1" cy="200" cx="290" stroke-width="4" stroke="#000" fill="#E6C36A"/>
+  <text opacity="0.6" stroke="#000" transform="matrix(3.4674699306488037,0,0,3.5185184478759766,-420.70362317562103,-260.6666593551636) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="139.259539" x="169.640418" stroke-width="0" fill="#845335">MADR</text>
+ </g>
+</svg>
